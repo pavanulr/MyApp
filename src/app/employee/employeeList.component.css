@@ -1,0 +1,29 @@
+table {
+    width: 50%;
+  }
+  .footer {
+    right:0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  .mat-paginator-container{
+    display:table-row-group;
+    right:0;
+    bottom: 0;
+    width: 100%;
+
+  }
+
+  .example-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+
+.mat-table {
+  overflow: auto;
+  max-height: 500px;
+}
