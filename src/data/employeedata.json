@@ -1,0 +1,22 @@
+[
+            {
+                "code": "emp101", "name": "Tom", "gender": "Male",
+                "annualSalary": 5000, "dateOfBirth": "09/16/1993"
+            },
+            {
+                "code": "emp102", "name": "Alex", "gender": "Male",
+                "annualSalary": 5700.95, "dateOfBirth": "09/06/1982"
+            },
+            {
+                "code": "emp103", "name": "Mike", "gender": "Male",
+                "annualSalary": 5900, "dateOfBirth": "12/08/1979"
+            },
+            {
+                "code": "emp104", "name": "Mary", "gender": "Female",
+                "annualSalary": 6500.826, "dateOfBirth": "10/14/1980"
+            },
+            {
+                "code": "emp105", "name": "Nancy", "gender": "Female",
+                "annualSalary": 6700.826, "dateOfBirth": "12/15/1982"
+            }
+        ]
